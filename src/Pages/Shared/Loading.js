@@ -2,8 +2,8 @@ import React from 'react';
 
 const Loading = () => {
     return (
-        <div>
-            <h1>Loading...</h1>
+        <div className='h-screen flex justify-center items-center'>
+            <button class="btn btn-square loading"></button>
         </div>
     );
 };

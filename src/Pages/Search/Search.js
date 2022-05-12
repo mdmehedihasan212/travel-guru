@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Donation = () => {
+const Search = () => {
     return (
         <div>
-            <h1>Donation</h1>
+            <h1>Search</h1>
         </div>
     );
 };
 
-export default Donation;
+export default Search;
